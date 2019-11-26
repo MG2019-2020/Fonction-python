@@ -1,0 +1,20 @@
+
+def entrée():
+    print"quelle est votre coef directeur"
+    m=int(input())
+    print"quelle est votre ordonné a x=0"
+    p=int(input())
+    
+    return m,p
+    
+def metier(m,p):
+   for x in range (0,10)
+   y=(m)*x+(p)
+   return y
+
+def fin (y):
+   print(y)
+
+entrée()
+metier()
+fin()
